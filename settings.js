@@ -4,9 +4,9 @@ const chalk = require('chalk')
 
 global.botname = "VIRTUAL KOMBAT" 
 global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
-global.author = "𝙋𝙄𝙆𝘼"  
+global.author = "TIMTECH"  
 global.packname = "VIRTUAL KOMBATBAT✯𝘽𝙊𝙏"  
-global.myweb = "https://github.com/PikaBotz" // You can put any link 
+global.myweb = "https://github.com/Hawkeyse/Timtech.bot/" // You can put any link 
 global.waterMark = "×͜×  ✘timtech™ ✓" // Your own watermark 
 global.headerText = "Anya by Timtech" // text for header of menu         
 global.DocumentTitle = "MASTER⚔️TIMTECH" 
@@ -29,7 +29,7 @@ global.email = "example@exmaple.com" // put your email here
 global.premium = ['233508968298']  // available soon
 global.sudo = ['233508968298']  // Co - Owners //
 
-global.prefa = ['-','🥵','🔥']
+global.prefa = ['-','!','🔥']
 
 //--------Random bot name for Info section--------\\
 name16 = "𓄂⍣⃝ TIMTECH 𓆩×͜×𓆪ꪾ️"
@@ -53,8 +53,8 @@ tag5 = '𝘠𝘢𝘢𝘳 𝘬𝘺𝘢 𝘉𝘰𝘵 𝘩𝘢𝘪❤️'
 tag6 = 'You are so hot!🥵' 
 tag7 = '𝘞𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘺𝘰𝘶 𝘢𝘭𝘭?' 
 tag8 = '𝘏𝘦𝘺 𝘸𝘩𝘦𝘳𝘦 𝘺𝘰𝘶 𝘢𝘭𝘭?...𝘤𝘰𝘮𝘦 𝘩𝘦𝘳𝘦 𝘨𝘶𝘺𝘴 𝘶𝘴𝘦 𝘵𝘩𝘪𝘴 𝘖𝘗 𝘉𝘰𝘵!🔥' 
-tag9 = '𝘠𝘰𝘶 𝘢𝘭𝘭 𝘴𝘩𝘰𝘶𝘭 𝘵𝘳𝘺 𝘵𝘩𝘪𝘴 𝘤𝘶𝘵𝘦 timtech❤️🍫' 
-tag10 = 'Timtech𝘪𝘴 𝘉𝘦𝘴𝘵!!😚' 
+tag9 = '𝘠𝘰𝘶 𝘢𝘭𝘭 𝘴𝘩𝘰𝘶ld 𝘵𝘳𝘺 𝘵𝘩𝘪𝘴 𝘤𝘶𝘵𝘦 timtech❤️🍫' 
+tag10 = 'Timtech 𝘪𝘴 𝘉𝘦𝘴𝘵!!😚' 
 
 
 global.mess = {
